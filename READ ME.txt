@@ -1,0 +1,8 @@
+Question number 1 I have used 'BeautifulSoup' package
+To install BeautifulSoup package (https://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python)
+you can use "pip install beautifulsoup4" 
+
+Question number 5,6,7 (N-Grams) I have used 'tabulate' package to display the results in table
+To install tabulate package (https://pypi.org/project/tabulate/)
+you can use "pip install tabulate"
+
